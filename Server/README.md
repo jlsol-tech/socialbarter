@@ -20,7 +20,7 @@
  - Zip code
  - city
  - Email adress
- - 
+ - password
 
 ## Setup
 
